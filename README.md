@@ -7,7 +7,7 @@ I fixed the following things:
 5. Fixed configuration settings max_steps = 500, logging_steps = 50, eval_steps = 50.
 6. Uploaded the model to my Hugging Face account.
 
-I have explained each fix in the in the code separately.
+I have explained each fix in the code separately.
 
 ## Hugging Face model
 Link: https://huggingface.co/pmranu/phi-2-dialogsum-finetuned
